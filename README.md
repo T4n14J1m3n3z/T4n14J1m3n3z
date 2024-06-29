@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFvOWJmNGc1ampzN2FjbHZlcmUzeTEzaWMwaHh6OTl0NnY1ZXVkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.webp" width="800" height="300"/>
 </div>
 
-## <p align="center"> salutations! 👋 "Let's crush some data and conquer the day!" </p>
+## <p align="center"> Salutations! 👋 "Let's crush some data and conquer the day!" </p>
 
 - 🔭 I'm currently diving into the world of data science, combining my background in industrial engineering with newfound skills in Python and machine learning. Passionate about leveraging data to drive insights and innovation.
 
