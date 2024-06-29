@@ -4,7 +4,7 @@
 
 - 🤔 I'm actively seeking opportunities to apply my expertise in predictive modeling and data-driven decision-making.
 
-Thanks for visiting!
+Farewell!
 <!--
 **T4n14J1m3n3z/T4n14J1m3n3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
