@@ -8,6 +8,15 @@
 
 - 🤔 I'm actively seeking opportunities to apply my expertise in predictive modeling and data-driven decision-making.
 ---
+### 📫 How to reach me: 
+
+- If you want to contact me:
+  <a href="https://www.linkedin.com/in/tania-jimenez-ibarra/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+- E-mail: tnoir.jmz@gmail.com
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://www.cdnlogo.com/logos/c/48/catboost.svg" title="catboost" alt="catboost" width="50" height="50"/>&nbsp;
@@ -34,18 +43,24 @@ Data science's predictive capabilities are increasingly used in law enforcement 
 ### :fire: Stats
 
 <div align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=T4n14J1m3n3z&theme=elegant" alt="GitHub Streak" /></a> </div>
+---
 
-### 📫 How to reach me: ...
+### 🖥️ Contributions
+
+<img src="https://github.com/T4n14J1m3n3z/T4n14J1m3n3z/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Mi Contribución" />
+
+---
+
+## <p align="center"> Enjoy your stay! ☕" </p>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVoeDlqNmVmNmpkdHRicG1kZWJoMGxxdHRleWVtMGk0dDhuYTQ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.webp" width="200"/>
 </div>
+<div id="header" align="center">
+  
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tania-jimenez-ibarra/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 <!--
 **T4n14J1m3n3z/T4n14J1m3n3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
