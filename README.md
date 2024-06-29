@@ -20,6 +20,27 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
+
+---
+### ⚡ Fun fact about data science:
+
+"Data scientists have the power to predict crime hotspots by analyzing historical crime data, demographic information, and even weather patterns. It's amazing how data science can foresee trends and influence proactive measures, akin to a real-life 'Minority Report'!"
+
+Data science's predictive capabilities are increasingly used in law enforcement and urban planning to anticipate and mitigate crime risks, showcasing the incredible scope and impact of data science in shaping our future.
+
+---
+
+### 📫 How to reach me: ...
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVoeDlqNmVmNmpkdHRicG1kZWJoMGxxdHRleWVtMGk0dDhuYTQ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.webp" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tania-jimenez-ibarra/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **T4n14J1m3n3z/T4n14J1m3n3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
