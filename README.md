@@ -1,8 +1,10 @@
-## Hi there 👋
+## Greetings and salutations! 👋 "Let's crush some data and conquer the day!"
 
 - 🔭 I'm currently diving into the world of data science, combining my background in industrial engineering with newfound skills in Python and machine learning. Passionate about leveraging data to drive insights and innovation.
 
 - 🤔 I'm actively seeking opportunities to apply my expertise in predictive modeling and data-driven decision-making.
+
+Thanks for visiting!
 <!--
 **T4n14J1m3n3z/T4n14J1m3n3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
