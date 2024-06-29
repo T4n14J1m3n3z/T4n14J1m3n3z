@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFvOWJmNGc1ampzN2FjbHZlcmUzeTEzaWMwaHh6OTl0NnY1ZXVkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.webp" width="800" height="300"/>
+  <img src="https://raw.githubusercontent.com/T4n14J1m3n3z/T4n14J1m3n3z/main/gif/giphy.webp" width="800" height="300"/>
 </div>
 
 ## <p align="center"> Salutations! 👋 "Let's crush some data and conquer the day!" </p>
