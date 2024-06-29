@@ -10,12 +10,12 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://www.cdnlogo.com/logos/c/48/catboost.svg" title="catboost" **alt="catboost" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/T4n14J1m3n3z/T4n14J1m3n3z/blob/main/tools/Markdown.png" title="markdown" alt="markdown" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/T4n14J1m3n3z/T4n14J1m3n3z/blob/main/tools/pandas-logo-776F6D45BB-seeklogo.com.png" title="pandas" alt="pandas" width="50" height="50"/>&nbsp;
+  <img src="https://www.cdnlogo.com/logos/c/48/catboost.svg" title="catboost" alt="catboost" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="80" height="60"/>&nbsp;
+  <img src="https://github.com/T4n14J1m3n3z/T4n14J1m3n3z/blob/main/tools/Markdown.png" title="markdown" alt="markdown" width="70" height="50"/>&nbsp;
+  <img src="https://github.com/T4n14J1m3n3z/T4n14J1m3n3z/blob/main/tools/pandas-logo-776F6D45BB-seeklogo.com.png" title="pandas" alt="pandas" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/T4n14J1m3n3z/T4n14J1m3n3z/blob/main/tools/pytorch.png" title="pytorch" alt="pytorch" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode " width="50" height="50"/>&nbsp;
   <img src="https://github.com/T4n14J1m3n3z/T4n14J1m3n3z/blob/main/tools/jupyter-logo-A91705F539-seeklogo.com.png" title="jupyter" alt="jupyter " width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"  title="scikitlearn" alt="scikitlearn" width="50" height="50"/>&nbsp;
