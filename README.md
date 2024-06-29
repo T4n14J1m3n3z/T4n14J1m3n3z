@@ -10,6 +10,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://www.cdnlogo.com/logos/c/48/catboost.svg" title="catboost" **alt="catboost" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp;
