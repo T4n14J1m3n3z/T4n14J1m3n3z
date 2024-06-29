@@ -31,6 +31,9 @@
 Data science's predictive capabilities are increasingly used in law enforcement and urban planning to anticipate and mitigate crime risks, showcasing the incredible scope and impact of data science in shaping our future.
 
 ---
+### :fire: Stats
+
+<div align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=T4n14J1m3n3z&theme=elegant" alt="GitHub Streak" /></a> </div>
 
 ### 📫 How to reach me: ...
 
